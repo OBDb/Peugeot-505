@@ -46,4 +46,4 @@ supported_commands_by_ecu:
   - 0165:GEAR_RCMD,GEAR_SUP,GPL_STAT,GPL_SUP,N/D_STAT,N/D_SUP,N/G_STAT,N/G_SUP,PTO_STAT_AUX,PTO_SUP
 unsupported_commands_by_ecu:
   6B4:
-  - 6B4.694.22D410
+  - 6B4.694.22D410:PEUGEOT_HVBAT_SOC
